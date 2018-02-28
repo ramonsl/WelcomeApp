@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portal Torres Hotel</string>
+    <string name="txtWelcome">Bienvenidos</string>
+    <string name="txtFone">555136642186</string>
+    <string name="descricaoImagem1">"Foto de la piscina del hotel "</string>
+</resources>
